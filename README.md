@@ -1,6 +1,6 @@
 # 🎓 Hey there! I'm Kaavya!
 
- 👨‍💻 A passionate Full Stack & Android Developer, currently pursuing a Bachelor's degree in Computer Science with a specialization in IoT<br>
+ 👨‍💻 A passionate Full Stack & Android Developer, currently pursuing a Bachelor's degree in IOT<br>
  🚀 I love coding, debugging, and building things that solve real-world problems.<br>
  ⚡ Proficient in Python, C, C++, Java, Kotlin, C#, JavaScript, PHP.<br>
  💬 Always happy to chat about tech, problem-solving, and new innovations!
